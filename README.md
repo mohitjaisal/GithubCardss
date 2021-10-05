@@ -1,6 +1,8 @@
 # Github-Fetch-JavaScript
 Github fetch API with basic javascript.
 
-Demo Link: https://githubfetchjs.netlify.app/
+It fetches and creates a cool Github Card for your profile
 
-<img src="https://raw.githubusercontent.com/mohitjaisal/Github-Fetch-JavaScript/master/GithubFetch-ss.png"/>
+Try now at https://githubfetchjs.netlify.app/
+
+![GithubFetch-Demo](GithubFetch-Demo.gif)
