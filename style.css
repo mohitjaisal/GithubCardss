@@ -2,6 +2,7 @@
 
 * {
   box-sizing: border-box;
+
 }
 
 body {
@@ -108,6 +109,20 @@ body {
   display: inline-block;
 }
 
+@media (max-width: 780px) {
+  form{
+    flex-direction: column;
+  }
+  form button{
+    margin-bottom: 30px;
+    display: inline-block;
+    position: relative;
+    transform: translate(-50%);
+    left: 50%;
+
+    
+  }
+}
 @media (max-width: 500px) {
   .card {
     flex-direction: column;
@@ -123,4 +138,22 @@ body {
     max-width: 400px;
     margin: 0 auto;
   }
+  input{
+    margin-top: 200px;
+  }
+}
+form{
+  display: flex;
+}
+form button{
+  width: 115px;
+  height: 50px;
+  background-color: #222831;
+  color: white;
+  border: 0px;
+  border-radius: 7px;
+  font-family: "Poppins", sans-serif;
+  font-size: 1rem;
+  cursor: pointer;
+  box-shadow: 0 5px 10px rgb(154 160 185 / 5%), 0 15px 40px rgb(0 0 0 / 10%);
 }
