@@ -1,7 +1,6 @@
 ![GithubFetch-Icon](favicon.png)
 
-# Github-Fetch-JavaScript ✨
-
+# Github Cardss
 A JavaScript webapp to fetch a GitHub card for your profile. It uses the [GitHub API](https://docs.github.com/rest) to retrieve data about your profile.
 
 ## Features 📦
@@ -13,7 +12,7 @@ A JavaScript webapp to fetch a GitHub card for your profile. It uses the [GitHub
 
 ## Usage 🌐
 
-1. Go to the [Website Demo Link](https://githubfetchjs.netlify.app)
+1. Go to the [Website Demo Link](https://githubcardss.netlify.app)
 2. Enter your GitHub username (e.g. `mohitjaisal`).
 3. Hit Enter and your GitHub card will be generated below!
 
