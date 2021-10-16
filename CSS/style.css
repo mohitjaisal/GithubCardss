@@ -55,6 +55,11 @@ body {
   display: flex;
   padding: 3rem;
   margin: 0 1.5rem;
+  transition: transform 300ms ease-in-out;
+}
+
+.card:hover {
+  transform: scale(1.05);
 }
 
 .avatar {
