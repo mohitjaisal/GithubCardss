@@ -107,6 +107,13 @@ body {
   margin-right: 0.5rem;
   margin-bottom: 0.5rem;
   display: inline-block;
+  position: relative;
+  top: 0;
+  transition: top ease 0.5s
+}
+
+.repo:hover {
+  top: -7px;
 }
 
 @media (max-width: 780px) {
@@ -156,4 +163,12 @@ form button{
   font-size: 1rem;
   cursor: pointer;
   box-shadow: 0 5px 10px rgb(154 160 185 / 5%), 0 15px 40px rgb(0 0 0 / 10%);
+}
+
+.zoom {
+  transition: transform .4s;
+}
+
+.zoom:hover {
+  transform: scale(1.07);
 }
