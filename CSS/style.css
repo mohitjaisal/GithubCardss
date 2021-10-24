@@ -17,6 +17,10 @@ body {
   overflow: hidden;
   margin: 0;
 }
+img{
+  width: 20%;
+  margin-bottom: 10px;
+}
 
 .user-form {
   width: 100%;
