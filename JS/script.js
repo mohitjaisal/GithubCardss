@@ -90,3 +90,8 @@ form.addEventListener('submit', (e) => {
     search.value = ''
   }
 })
+
+function myFunction(){
+  const el = document.getElementById("img");
+  el.style.width = '10%';
+}
