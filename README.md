@@ -26,3 +26,11 @@ A picture is worth a thousand words:
 ## Try it now on the live
 
 <a href="https://githubfetchjs.netlify.app/"><h4>Website Demo Link</h4></a>
+
+## :heart: Contribution
+
+If you want to contribute to the project, the first thing you need to do is create an issue with the problem/future that you want to add. When you are assigned (meaning the issue has been approved) you can fork this repo and begin working on the project.
+
+When you are done, you can create a pull request explaining what you've done and what issue you are closing (adding a reference to it).
+
+After that, if your PR follows the code style and fix or add something to the project will be merged inside the project.
