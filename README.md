@@ -23,10 +23,6 @@ A picture is worth a thousand words:
 
 ![GithubFetch-Demo](assets/GithubFetch-Demo.gif)
 
-## Try it now on the live
-
-<a href="https://githubfetchjs.netlify.app/"><h4>Website Demo Link</h4></a>
-
 ## :heart: Contribution
 
 If you want to contribute to the project, the first thing you need to do is create an issue with the problem/future that you want to add. When you are assigned (meaning the issue has been approved) you can fork this repo and begin working on the project.
